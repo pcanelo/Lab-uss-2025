@@ -1,0 +1,11 @@
+{
+  "name": "node-server-example",
+  "version": "1.0.0",
+  "description": "Servidor Node.js de ejemplo con datos en duro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Patricio Canelo",
+  "license": "MIT"
+}
